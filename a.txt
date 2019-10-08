@@ -1,1 +1,3 @@
 this is a txt file
+the file's name is a.txt
+the file is in english
